@@ -3,5 +3,5 @@ attrs>=19.1.0
 flatbuffers>=2.0
 matplotlib
 numpy
-opencv-contrib-python
+opencv-contrib-python-headless
 protobuf>=3.11,<4
